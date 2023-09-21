@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    background-color: lightgray;
+    border:solid 2px black;
+    height:100vh;
+    padding:20px;
+}
+.card{
+    height:20%;
+    background: aqua;
+    color: white;
+    max-width:200px;
+    border-radius:50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}
